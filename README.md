@@ -3,7 +3,7 @@
 
 ### Disclaimers
 
-- No guarantees here. I originally wrote these tools 4 years ago and counting, and they make a lot of assumptions about how your machine is configured.
+- No guarantees here. I originally wrote these tools 3 years ago and counting, and they make a lot of assumptions about how your machine is configured.
 
 - Heck, I'm not even sure these even work with more modern version of Gimp... `¯\_(ツ)_/¯`
 
